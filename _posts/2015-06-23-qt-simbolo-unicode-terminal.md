@@ -2,8 +2,14 @@
 published: true
 ---
 
+---
 layout: post
 title: Quick Tip: Símbolo unicode en la terminal
+category: Meta
+
+excerpt: Pocas cosas hacen más feliz a un programador que sentirse dueño de sus herramientas y entorno de trabajo, saber cómo funcionan al grado de poder modificarlas y adaptarlas a su gusto.
+
+---
 
 If you are on a Mac the command you want to run to put a burger in your Bash shell prompt like mine is:
 
