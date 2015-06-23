@@ -12,4 +12,4 @@ Hola mi nombre es Erik, soy un apasionado por el desarrollo de software y la tec
 
 Para este blog hago publicaciones de lo que he aprendido sobre tecnología y lo que voy aprendiendo en esta vida de developer, más detalle en este post. Así que nerd, geek, friki, ñoño, señor, me puedes definir como desees simplemente amo lo que hago y aquí lo comparto.
 
-### Me pudes contactar en estos links ⬇︎
+### Me pudes contactar en estos links ⬇︎↓⇓⤋
