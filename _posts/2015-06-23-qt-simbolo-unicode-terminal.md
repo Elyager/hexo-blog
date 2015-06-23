@@ -4,7 +4,7 @@ published: true
 
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Quick Tip
 ---
 
 If you are on a Mac the command you want to run to put a burger in your Bash shell prompt like mine is:
