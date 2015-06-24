@@ -66,6 +66,9 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: landscape
 
+# Disqus
+disqus_shortname: aprendelobasicocom
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
