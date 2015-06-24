@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blogging Like a Hacker
-published: false
+published: true
 ---
 
 ##blogging like a hacker
