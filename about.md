@@ -12,6 +12,6 @@ Hola mi nombre es Erik, soy un apasionado por el desarrollo de software y la tec
 
 Para este blog hago publicaciones de lo que he aprendido sobre tecnología y lo que voy aprendiendo en esta vida como developer, más detalle en este post. 
 
-Amo lo que hago y aquí lo comparto espero te sirva de algo.
+Amo lo que hago y aquí lo comparto espero te sirva.
 
 ### Me pudes contactar en los links de aquí abajo ↓
