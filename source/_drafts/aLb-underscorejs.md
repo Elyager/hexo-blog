@@ -1,7 +1,5 @@
-title: Underscore.js Tutorial
-date: 2015-06-24 14:39:00
+title: aLb-underscorejs
 tags:
-published: false
 ---
 
 ##Underscore.js Tutorial
