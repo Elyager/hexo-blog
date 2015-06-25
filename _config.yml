@@ -69,6 +69,12 @@ theme: landscape
 # Disqus
 disqus_shortname: aprendelobasicocom
 
+#Atom Feed (RSS)
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
