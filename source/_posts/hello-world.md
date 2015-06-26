@@ -46,4 +46,10 @@ this is code section `git commit -m 'text'`
 
 > This is a Quote MF
 
+{% youtube Qf1JvdomH6s %}
+
+{% codeblock [title] [lang:language] [url] [link text] %}
+code snippet
+{% endcodeblock %}
+
 
